@@ -1,12 +1,6 @@
 <h1 align="center">Welcome to my GitHub page, I am Yigit Yesilada 👋</h1>
 <h3 align="center">Flutter Developer -- Computer Engineer</h3>
-<h4 align="center">I am a computer engineer and mobile application developer. My area of expertise is Flutter and I have
-been actively involved in projects with Flutter for a long time. In addition, I also have experience in
-Android development. I often use GetX, Dependency Injection, Firebase, Floor, Dio and 3rd party
-libraries in my Flutter projects, and generally use MVVM, Retrofit, Livedata, Kotlin Flows, Navigation,
-Firebase, Room, Databinding, Viewbinding, Push notice and 3rd party libraries in my Android projects. I
-use libraries. I am someone who improves himself, loves research, and believes that the only constant
-thing is change itself.
+<h4 align="center">I am a computer engineer and mobile application developer. My area of ​​expertise is Flutter and I have been actively involved in projects with Flutter for a long time. I also have experience in Android development. I often use GetX, Dependency Injection, Firebase, Floor, Dio and 3rd party libraries in my Flutter projects. I am someone who improves myself, loves research and believes that the only constant is change itself.
 </h4>
 
 <h3 align="center">Social Accounts</h3>
